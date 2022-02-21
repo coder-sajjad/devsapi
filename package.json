@@ -1,0 +1,14 @@
+{
+  "name": "class-19-api",
+  "version": "1.0.0",
+  "description": "Skills REST API for react developer",
+  "main": "index.js",
+  "scripts": {
+    "sajjad": "json-server --watch db.json --port 5050"
+  },
+  "author": "Sajjad",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

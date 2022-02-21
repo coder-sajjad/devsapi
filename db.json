@@ -1,0 +1,98 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "name": "Sajjad",
+      "email": "example@gmail.com",
+      "phone": "01712536457",
+      "all_skillsId": "5",
+      "age": "20",
+      "location": "Uttara",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Outdoors-man-portrait_%28cropped%29.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Abdullah",
+      "email": "abdullah@gmail.com",
+      "phone": "01625142364",
+      "all_skillsId": "2",
+      "age": "15",
+      "location": "Mirpur",
+      "image": "https://us.123rf.com/450wm/luismolinero/luismolinero1909/luismolinero190917934/130592146-handsome-young-man-in-pink-shirt-over-isolated-blue-background-keeping-the-arms-crossed-in-frontal-p.jpg?ver=6"
+    },
+    {
+      "id": 3,
+      "name": "Abdus Samad",
+      "email": "samad@gmail.com",
+      "phone": "01741526324",
+      "all_skillsId": "5",
+      "age": "25",
+      "location": "Banani",
+      "image": "https://www.theclassiccarbrokers.com/wp-content/uploads/2018/07/handsome.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Selim",
+      "email": "selim@gmail.com",
+      "phone": "01741253698",
+      "all_skillsId": "6",
+      "age": "30",
+      "location": "Banani",
+      "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Sifat",
+      "email": "sifat@gmail.com",
+      "phone": "01321145115",
+      "all_skillsId": "8",
+      "age": "35",
+      "location": "Mirpur",
+      "image": "https://t4.ftcdn.net/jpg/02/14/74/61/360_F_214746128_31JkeaP6rU0NzzzdFC4khGkmqc8noe6h.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Abdullah",
+      "email": "abdullah@gmail.com",
+      "phone": "01625142364",
+      "all_skillsId": "4",
+      "age": "15",
+      "location": "Mirpur",
+      "image": "https://us.123rf.com/450wm/mimagephotography/mimagephotography1602/mimagephotography160200833/53356511-close-up-portrait-of-a-smiling-young-african-american-man-in-a-denim-shirt-against-white-background.jpg?ver=6"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "skill": "JavaScript Developer"
+    },
+    {
+      "id": 2,
+      "skill": "PHP Developer"
+    },
+    {
+      "id": 3,
+      "skill": "React Developer"
+    },
+    {
+      "id": 4,
+      "skill": "Node Developer"
+    },
+    {
+      "id": 5,
+      "skill": "Python Developer"
+    },
+    {
+      "id": 6,
+      "skill": "Django Developer"
+    },
+    {
+      "id": 7,
+      "skill": "Laravel Developer"
+    },
+    {
+      "id": 8,
+      "skill": "WordPress Developer"
+    }
+  ]
+}
